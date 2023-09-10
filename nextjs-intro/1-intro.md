@@ -65,6 +65,7 @@ return <div className = "p-8 rounded-xl bg-sky-300">{children}</div>;
 }
 
 ```
+```
 //page.js
 ...
 return (
@@ -82,6 +83,9 @@ return (
 ## Conditional Rendering
 
 ```
+export const CardName = ({name, age, gender}) => { 
+
+}
 ```
 
 
